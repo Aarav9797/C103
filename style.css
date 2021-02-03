@@ -1,0 +1,16 @@
+body{
+   background-color: skyblue; 
+}
+#D1{
+    background-color:#A1CCA5;
+    margin-top: 50px;
+}
+#NB{
+    width:100%;
+}
+#camerA{
+   width: 350px;
+   height: 300px;
+   border:2px ridge;
+    
+}
